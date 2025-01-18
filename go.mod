@@ -1,3 +1,3 @@
-module github.com/mariusromeiser/generic_syncpool
+module github.com/rommarius/generic_syncpool
 
 go 1.23.4
